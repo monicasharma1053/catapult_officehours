@@ -1,4 +1,3 @@
-module ApplicationHelper
 
 def full_title(page_title)
   base_title = "Catapult Office Hours"
@@ -7,5 +6,4 @@ def full_title(page_title)
   else
     "#{base_title} | #{page_title}"
   end
-end 
 end

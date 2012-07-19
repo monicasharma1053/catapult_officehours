@@ -16,7 +16,7 @@ html {
   overflow-y: scroll;
 }
 
-body {
+body { 
   padding-top: 100px;
 }
 
@@ -57,7 +57,9 @@ h2 {
   color: #999;
 }
 
-p {
+
+.center.hero-unit {
+  border: 25px solid #DC143C;
   font-size: 1.1em;
   line-height: 1.7em;
 }
@@ -79,6 +81,7 @@ p {
     text-decoration: none;
   }
 }
+
 
 header{
   border-top: 10px solid #DC143C;
